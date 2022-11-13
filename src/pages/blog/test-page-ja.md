@@ -1,6 +1,6 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Third post"
+title: "日本語テストページ"
 description: "テストページです。"
 pubDate: "Nov 13 2022"
 ---
